@@ -25,4 +25,4 @@ app.use(bodyParser.json());
 
 app.listen(3000, () => {
   console.log('backend server started on 3000');
-})
+});
