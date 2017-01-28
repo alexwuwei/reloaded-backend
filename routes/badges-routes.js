@@ -23,4 +23,4 @@ module.exports = (apiRouter) => {
     .delete((req, res) => {
       console.log('DEL route hit for /badges/:id');
     })
-}
+};
